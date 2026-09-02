@@ -1,3 +1,4 @@
+[![Deploy Next.js site to Pages](https://github.com/foridulislam21/portfolio/actions/workflows/nextjs.yml/badge.svg)](https://github.com/foridulislam21/portfolio/actions/workflows/nextjs.yml)
 # Forid Portfolio
 
 Modern developer portfolio built with Next.js, TypeScript, Tailwind CSS, Framer Motion and Lucide.
